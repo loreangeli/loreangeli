@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Studies 🎓:
+<!-- <img width=70px src="assets/unipi_logo.png" /> &nbsp;
+<img width=70px src="assets/univr_logo.png" /> &nbsp;
+<img width=70px src="assets/elte_logo.png" /> -->
+* **Bachelor's degree:** I graduated in **Computer Science** at the University of Pisa
+* **Master's degree:** I am currently a MSc student in **ICT Solutions Architect** at the University of Pisa
+
+<!-- GitHub stats -->
+<details open>
+  <summary>GitHub stats</summary>
+  <div>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="center" height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=loreangeli&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=tokyonight">
+    </a>
+  </div>
+</details>
